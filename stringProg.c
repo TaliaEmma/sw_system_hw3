@@ -408,7 +408,7 @@ void func_c(char w[WORD], char t[TXT])
 		
 	}
 	str[x-1]='\0';
-	printf("%s\n", str);
+	printf("%s", str);
 
 }
 
