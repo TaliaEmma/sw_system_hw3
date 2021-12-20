@@ -12,4 +12,4 @@ stringProg.o: stringProg.c
 .PHONY: clean
 
 clean:
-	rm -f main.o stringProg
+	rm -f stringProg.o stringProg
